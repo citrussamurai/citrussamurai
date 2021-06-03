@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @citrussamurai
-- 👀 I’m interested in web technologies.
-- 🌱 I’m currently learning Node.js and Angular.
-- 📫 [LinkedIn](https://www.linkedin.com/in/travisrepetto/)
+- 👋  Hi, I’m @citrussamurai
+- 👀  I’m interested in web technologies.
+- 🌱  I’m currently learning Node.js and Angular.
+- 📫  [LinkedIn](https://www.linkedin.com/in/travisrepetto/)
 
 <!---
 citrussamurai/citrussamurai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
